@@ -1,7 +1,7 @@
  - Go does not have classes.
  - Go uses `structs` with associated methods.
- - Structs are simplified implementation of classes
-  - A collection of data
-  - No inheritance 
-  - No constructors
-  - No generics
+ - Structs are simplified implementation of classes.
+   - A collection of data.
+   - No inheritance .
+   - No constructors.
+   - No generics.
